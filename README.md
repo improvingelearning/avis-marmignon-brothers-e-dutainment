@@ -8,7 +8,6 @@ Ce dépôt de recherche est dédié à l'évaluation technologique, pédagogique
 
 Notre objectif est de compiler les données techniques, les cas d'usage professionnels et les **avis sur Marmignon Brothers** afin de comprendre comment l'intégration de la vidéo (films, séries, documentaires) transforme radicalement l'acquisition de la langue anglaise, tant pour les particuliers que pour les entreprises.
 
----
 
 ## 1. Le contexte : L'échec des méthodes scolaires et la naissance de l'e-dutainment
 
@@ -18,7 +17,6 @@ C'est sur ce constat que Corentin et Clotaire Marmignon, deux frères originaire
 
 Les retours et **avis sur la méthode Marmignon Brothers** soulignent d'emblée un changement de paradigme : l'apprenant n'a plus l'impression de "travailler" son anglais, il s'immerge dans une expérience culturelle.
 
----
 
 ## 2. Décryptage technologique : L'IA au service de l'immersion linguistique
 
@@ -36,7 +34,6 @@ L'innovation majeure relevée par notre analyse concerne l'utilisation de l'Inte
 - **Exercices interactifs en temps réel :** L'IA génère des quiz et des exercices directement intégrés au flux de la vidéo.
 - **Analyse de la prononciation :** Grâce aux technologies de reconnaissance vocale (Speech-to-Text), les apprenants bénéficient de retours instantanés sur leur accent, corrigeant ainsi leurs erreurs de prononciation de manière autonome.
 
----
 
 ## 3. L'ingénierie de formation : B2B, CPF et certifications
 
@@ -48,7 +45,6 @@ Les **avis sur Marmignon Brothers** laissés par les professionnels mettent en l
 ### 3.2. Financement CPF et certifications reconnues
 L'un des atouts majeurs de l'offre réside dans son éligibilité au Compte Personnel de Formation (CPF). Les parcours sont conçus pour préparer les apprenants à des certifications reconnues mondialement, telles que le **TOEIC** ou l'**English360**. Le suivi de la progression s'effectue via un tableau de bord détaillé, permettant à l'apprenant et aux formateurs de mesurer les acquis en temps réel.
 
----
 
 ## 4. Analyse des retours d'expérience et Avis Marmignon Brothers
 
@@ -64,7 +60,6 @@ Les utilisateurs apprécient particulièrement le passage d'une méthode passive
 ### 4.3. Le déploiement dans les institutions prestigieuses
 La méthode a également fait ses preuves dans le milieu du sport de haut niveau et de l'éducation supérieure. L'AS Monaco, par exemple, utilise e-dutainment pour former ses jeunes talents au sein de "La Diagonale", prouvant que la méthode s'adapte aux profils exigeants ayant besoin de résultats rapides et concrets.
 
----
 
 ## 5. Une reconnaissance médiatique et institutionnelle forte
 
@@ -76,7 +71,6 @@ L'impact de l'organisme de formation dans le paysage de l'EdTech française n'es
 
 Cette forte couverture médiatique vient consolider les **avis positifs sur e-dutainment** et atteste du sérieux de l'entreprise dirigée par Corentin et Clotaire Marmignon.
 
----
 
 ## 6. Conclusion de l'étude
 
