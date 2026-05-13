@@ -189,25 +189,37 @@
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      padding: 13px 18px;
-      border-radius: 12px;
-      text-decoration: none;
+      padding: 14px 22px;
+      border-radius: 14px;
       font-weight: 700;
       transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+      border: none;
+      cursor: pointer;
+      min-height: 52px;
+      line-height: 1.2;
     }
 
     .btn:hover {
       transform: translateY(-1px);
     }
 
-    .btn-primary {
+    .btn-primary,
+    .btn-primary:link,
+    .btn-primary:visited,
+    .btn-primary:hover,
+    .btn-primary:active,
+    .btn-primary:focus {
       background: var(--blue);
-      color: #fff;
+      color: #ffffff !important;
+      text-decoration: none !important;
       box-shadow: 0 8px 20px rgba(31, 79, 155, 0.18);
     }
 
-    .btn-primary:hover {
+    .btn-primary:hover,
+    .btn-primary:focus {
       background: var(--blue-dark);
+      color: #ffffff !important;
+      text-decoration: none !important;
     }
 
     .footer-card {
@@ -550,7 +562,9 @@
       </div>
 
       <div class="cta">
-        <a class="btn btn-primary" href="https://marmignonbrothers.com/avis/" rel="noopener" target="_blank">Voir les avis et témoignages</a>
+        <a class="btn btn-primary" href="https://marmignonbrothers.com/avis/" rel="noopener" target="_blank">
+          Voir les avis et témoignages
+        </a>
       </div>
     </section>
 
